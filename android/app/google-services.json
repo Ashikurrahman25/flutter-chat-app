@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "212359873427",
+    "firebase_url": "https://chemchamp-58508.firebaseio.com",
+    "project_id": "chemchamp-58508",
+    "storage_bucket": "chemchamp-58508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212359873427:android:4bb51947177c4aaef01e66",
+        "android_client_info": {
+          "package_name": "com.hurtlebee.chemchamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212359873427-d4udpit4aj8kfjdtvjsrotnc7hbk88ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdEcfD3nzy4Af97KcYp8ApAcrCVO6wltU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212359873427-d4udpit4aj8kfjdtvjsrotnc7hbk88ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
